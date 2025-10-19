@@ -16,3 +16,9 @@ Constraint Satisfaction Problems (CSP)
 
 Knowledge Graph Construction
 
+Backtracking Search Algorithm
+
+Arc-consistency Algorithm
+
+Forward checking algorithm
+
